@@ -1,4 +1,4 @@
-# Vagrant Sonarqube
+# Vagrant Sonarqube 7.0
 
 Vagrant configuration to run sonarqube.
 
